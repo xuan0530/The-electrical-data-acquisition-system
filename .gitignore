@@ -1,0 +1,31 @@
+# Keil uVision project files
+*.bak
+*.iex
+*.uvguix.*
+*.uvopt
+*.uvoptx
+*.uvproj
+*.uvprojx
+*.map
+*.sfr
+*.build_log.htm
+*.htm
+
+# Listings folder
+Listings/
+*.lst
+*.map
+
+# Objects folder (very important!)
+Objects/
+*.o
+*.d
+
+# JLink files
+JLinkLog.txt
+JLinkSettings.ini
+
+# Other common temporary files
+*.tmp
+*.log
+*~
